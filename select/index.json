@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Thursday Night(목요일 밤) )",
+  "base_artist": "URBAN ZAKAPA(어반자카파)",
+  "createdAt": "2025-12-24T13:25:53.294566Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Thursday Night(목요일 밤) ) (合作演出：Beenzino)",
+      "artist": "URBAN ZAKAPA(어반자카파)",
+      "has_synced": true,
+      "path": "select/01_Thursday_Night(목요일_밤)_)_(合作演出_Beenzino)_URBAN_ZAKAPA(어반자카파).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Thursday Night (feat.Beenzino)",
+      "artist": "Urban Zakapa",
+      "has_synced": false,
+      "path": "select/pl_01_Thursday_Night_(feat.Beenzino)_Urban_Zakapa.txt"
+    }
+  ]
+}
